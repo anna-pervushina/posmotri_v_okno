@@ -75,9 +75,9 @@ ol {
 .result__video{
   object-fit: cover;
   object-position: center;
+  margin-top: 78px;
   width: 711px;
   height: 386px;
-  margin-top: 78px;
 }
 
 .search-form {
